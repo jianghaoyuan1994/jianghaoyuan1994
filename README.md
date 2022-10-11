@@ -1,7 +1,7 @@
 # Hi, I'm Haoyuan Jiang. 👋
 
-- 👀 I’m interested in Reinforcement Learning and Computer Vision, a long-lasting dream is to create AGI.
-- 🌱 I’m currently learning Reinforcement Learning and Computer Vision.
+- 👀 I’m interested in Reinforcement Learning, Foundation Model and Computer Vision, a long-lasting dream is to create AGI.
+- 🌱 I'm currently working use reinforcement learning to solve some industry problems.
 - 📫 How to reach me: jianghaoyuan1994@gmail.com
 <!-- - 👋 Hi, I’m @jianghaoyuan1994
 
