@@ -1,7 +1,7 @@
 # Hi, I'm Haoyuan Jiang. 👋
 
 - 👀 I’m interested in Reinforcement Learning, Foundation Model and Computer Vision, a long-lasting dream is to create AGI.
-- 🌱 I'm currently working use reinforcement learning to solve some industry problems.
+- 🌱 I'm currently working on using reinforcement learning to solve some industry problems(Traffic signal control, Autonomous driving, etc.)
 - 📫 How to reach me: jianghaoyuan1994@gmail.com
 <!-- - 👋 Hi, I’m @jianghaoyuan1994
 
